@@ -18,7 +18,10 @@
  <img src="https://komarev.com/ghpvc/?username=odennav&style=flat-square&color=green" alt=""/>
 </div>
 
-### Hi there 👋
+<h1>
+  Hi
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9jeTQzam8xYTl1eWdvNGJtMWpzaHYzZ2MyeTlmcWdldzY5ZXRoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **odennav/odennav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
