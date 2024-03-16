@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<div id="header" align="center">
+ <img src="https://komarev.com/ghpvc/?username=odennav&style=flat-square&color=green" alt=""/>
+</div>
+
 ### Hi there 👋
 
 <!--
