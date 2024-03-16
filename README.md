@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU2NWJleTNlYzdtMXYxdTIwaml0N2s2OWxiOGp0aXAyeGdmYTU3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/nnanna-victor-odeghe-b0713a21b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
