@@ -31,12 +31,12 @@
 
 ### :technologist: About Me :
 
-Network Engineer, DevOps & SRE  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+ Network Engineer, DevOps & SRE Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- 🔭 I’m currently working on Large Scale Systems.
-- 👯 I’m looking to collaborate on On-Prem Infrastructure, DevOps and SRE Projects.
-- ⚡ In my free time, I implement projects to gain in-depth knowledge of Containerization platforms.
-- 🌱 I’m always learning Linux.
+- 🔭 I’m actively engaged in the management and optimization of Large Scale Systems.
+- 👯 I’m eagerly seeking opportunities for collaboration on projects centered around On-Prem Infrastructure, DevOps, and SRE.
+- ⚡ In my free time, I delve into containerization projects for personal growth, alongside enjoying soccer matches for relaxation.
+- 🌱 I’m always honing my proficiency in Linux.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nnanna-victor-odeghe-b0713a21b)
 
 ---
@@ -44,7 +44,7 @@ Network Engineer, DevOps & SRE  <img src="https://media.giphy.com/media/WUlplcMp
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash/bash-original.svg" title="Bash" alt="Bash width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
