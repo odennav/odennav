@@ -55,6 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original-wordmark.svg" title="Packer" alt="Packer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vsphere/vsphere-original-wordmark.svg" title="Vsphere" alt="Vsphere" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
