@@ -23,17 +23,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
-
-### :technologist: About Me :
-
- Network Engineer, DevOps & SRE Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-
-- 🔭 I’m actively engaged in the management and optimization of Large Scale Systems.
-- 👯 I’m eagerly seeking opportunities for collaboration on projects centered around On-Prem Infrastructure, DevOps, and SRE.
-- ⚡ In my free time, I delve into containerization projects for personal growth, alongside enjoying soccer matches for relaxation.
-- 🌱 I’m always honing my proficiency in Linux.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/odennav)
 
 ---
 
@@ -62,8 +51,4 @@
 
 ---
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=odennav&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odennav&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
