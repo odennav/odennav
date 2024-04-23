@@ -58,7 +58,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" title="LOGSTASH" alt="LOGSTASH" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="KIBANA" alt="KIBANA" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="GRAFANA" alt="GRAFANA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg" title="CASSANDRA" alt="CASSANDRA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="CASSANDRA" alt="CASSANDRA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" alt="POSTGRESQL" width="40" height="40"/>&nbsp;
   </div>
 
