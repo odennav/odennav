@@ -61,7 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="REDIS" alt="REDIS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="HELM" alt="HELM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg" title="SonarQube" **alt="SonarQube" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg" title="SonarQube" **alt="SonarQube" width="40" height="70"/>
   </div>
 
 ---
