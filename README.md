@@ -59,7 +59,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="CASSANDRA" alt="CASSANDRA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" alt="POSTGRESQL" width="42" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="REDIS" alt="REDIS" width="42" height="40"/>&nbsp;
-   <img src="https://github.com/odennav/odennav/blob/main/docs/icinga-original.svg" title="Icinga" **alt="Icinga" width="30" height="40" style="width: 45px; height: 50px;"/>&nbsp;
+   <img src="https://github.com/odennav/odennav/blob/main/docs/icinga-original.svg" title="Icinga" **alt="Icinga" width="30" height="40" style="width: 35px; height: 50px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/trivy.svg" title="Trivy" **alt="Trivy" width="40" height="40" style="width: 54px; height: 54px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" title="SonarQube" **alt="SonarQube" width="40" height="40"/>&nbsp;
