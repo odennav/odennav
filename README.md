@@ -65,6 +65,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" title="SonarQube" **alt="SonarQube" width="40" height="40"/>
   <img src="https://github.com/odennav/odennav/blob/main/docs/icinga.svg" title="Icinga" **alt="Icinga" width="40" height="40" style="width: 54px; height: 72px;"/>
   </div>
----
 
+---
 
