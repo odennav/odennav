@@ -64,6 +64,7 @@
   <img src="https://github.com/odennav/odennav/blob/main/docs/trivy.svg" title="Trivy" **alt="Trivy" width="40" height="40" style="width: 54px; height: 54px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" title="SonarQube" **alt="SonarQube" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="HELM" alt="HELM" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/helm/influxdb-original-wordmark.svg" title="INFLUXDB" alt="INFLUXDB" width="40" height="40"/>&nbsp;
   </div>
 
 ---
