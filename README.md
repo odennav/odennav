@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-plain-wordmark.svg" title="Vault" alt="Vault" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/odennav/odennav/blob/main/docs/nginx.svg"  title="NGINX" alt="NGINX" width="40" height="40" style="width: 45px; height: 40px;"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/litespeed-server-web.svg" title="LITESPEED" alt="LITESPEED" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/odennav/odennav/blob/main/docs/icinga-original.svg" title="Icinga" **alt="Icinga" width="30" height="45" style="width: 45px; height: 40px;"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs/Icinga_Logo.svg" title="Icinga" **alt="Icinga" width="30" height="45" style="width: 45px; height: 40px;"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/datadog.svg" title="DATADOG" alt="DATADOG" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ELASTICSEARCH" alt="ELASTICSEARCH" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" title="LOGSTASH" alt="LOGSTASH" width="30" height="30"/>&nbsp;
