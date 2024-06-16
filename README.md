@@ -59,8 +59,8 @@
   <img src="https://github.com/odennav/odennav/blob/main/docs/trivy.svg" title="Trivy" **alt="Trivy" style="width: 54px; height: 54px; transform: scale(4.0)"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs//sonarqube.svg" title="SonarQube" **alt="SonarQube" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/Icinga_logo.svg" title="Icinga" **alt="Icinga" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
-  <img src="https://github.com/odennav/odennav/blob/main/docs/apache-13.svg" title="Apache" **alt="Apache" style="width: 50px; height: 30px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/traefik.svg" title="Traefik" **alt="Traefik" style="width: 55px; height: 40px; transform: scale(4.0);"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs/apache-13.svg" title="Apache" **alt="Apache" style="width: 50px; height: 30px; transform: scale(4.0);"/>&nbsp;
   </div>
 
 ---
