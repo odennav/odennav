@@ -43,9 +43,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vsphere/vsphere-original-wordmark.svg" title="Vsphere" alt="Vsphere" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-plain-wordmark.svg" title="Vault" alt="Vault" width="40" height="40"/>&nbsp; 
- <img src="https://github.com/odennav/odennav/blob/main/docs/nginx.svg"  title="NGINX" alt="NGINX" width="40" height="40" style="width: 45px; height: 40px;"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs/nginx.svg"  title="NGINX" alt="NGINX" width="40" height="40" style="width: 45px; height: 40px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RABBITMQ" alt="RABBITMQ" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jaegertracing/jaegertracing-original.svg" title="JAEGERTRACING" alt="JAEGERTRACING" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs/icinga-original.svg" title="Icinga" **alt="Icinga" width="30" height="45" style="width: 35px; height: 40px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ELASTICSEARCH" alt="ELASTICSEARCH" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" title="LOGSTASH" alt="LOGSTASH" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="KIBANA" alt="KIBANA" width="30" height="30"/>&nbsp;
@@ -56,12 +57,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="CASSANDRA" alt="CASSANDRA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" alt="POSTGRESQL" width="42" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="REDIS" alt="REDIS" width="42" height="40"/>&nbsp;
-   <img src="https://github.com/odennav/odennav/blob/main/docs/icinga-original.svg" title="Icinga" **alt="Icinga" width="30" height="45" style="width: 35px; height: 40px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/trivy.svg" title="Trivy" **alt="Trivy" width="40" height="40" style="width: 54px; height: 54px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" title="SonarQube" **alt="SonarQube" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="HELM" alt="HELM" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="INFLUXDB" alt="INFLUXDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="HELM" alt="HELM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="INFLUXDB" alt="INFLUXDB" width="40" height="40"/>&nbsp;
   </div>
 
 ---
