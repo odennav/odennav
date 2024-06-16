@@ -48,6 +48,7 @@
   <img src="https://github.com/odennav/odennav/blob/main/docs/litespeed-server-web.svg" title="LITESPEED" alt="LITESPEED" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="PROMETHEUS" alt="PROMETHEUS" width="50" height="40"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/datadog.svg" title="DATADOG" alt="DATADOG" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/odennav/odennav/blob/main/docs/elastic.svg" title="ELASTIC" alt="ELASTIC" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ELASTICSEARCH" alt="ELASTICSEARCH" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" title="LOGSTASH" alt="LOGSTASH" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="KIBANA" alt="KIBANA" width="30" height="30"/>&nbsp;
