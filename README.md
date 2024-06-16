@@ -59,7 +59,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="REDIS" alt="REDIS" width="42" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/trivy.svg" title="Trivy" **alt="Trivy" width="40" height="40" style="width: 54px; height: 54px;"/>&nbsp;
-  <img src="https://github.com/odennav/odennav/blob/main/docs//sonarqube.svg" title="SonarQube" **alt="SonarQube" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs//sonarqube.svg" title="SonarQube" **alt="SonarQube" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/Icinga_logo.svg" title="Icinga" **alt="Icinga" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="INFLUXDB" alt="INFLUXDB" width="40" height="40"/>&nbsp;
   </div>
