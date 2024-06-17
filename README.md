@@ -47,7 +47,7 @@
   <img src="https://github.com/odennav/odennav/blob/main/docs/nginx.svg"  title="NGINX" alt="NGINX" width="40" height="40" style="width: 45px; height: 40px;"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/litespeed.svg" title="LITESPEED" alt="LITESPEED" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="PROMETHEUS" alt="PROMETHEUS" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/odennav/odennav/blob/main/docs/datadog.svg" title="DATADOG" alt="DATADOG" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs/apache-13.svg" title="Apache" **alt="Apache" style="width: 50px; height: 20px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/elastic.svg" title="ELASTIC" alt="ELASTIC" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="GRAFANA" alt="GRAFANA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="INFLUXDB" alt="INFLUXDB" width="40" height="40"/>&nbsp;
@@ -60,7 +60,8 @@
   <img src="https://github.com/odennav/odennav/blob/main/docs/traefik.svg" title="Traefik" **alt="Traefik" style="width: 40px; height: 40px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs//sonarqube.svg" title="SonarQube" **alt="SonarQube" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/Icinga_logo.svg" title="Icinga" **alt="Icinga" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
-  <img src="https://github.com/odennav/odennav/blob/main/docs/apache-13.svg" title="Apache" **alt="Apache" style="width: 50px; height: 20px; transform: scale(4.0);"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs/datadog.svg" title="DATADOG" alt="DATADOG" width="40" height="40"/>&nbsp;
+
   </div>
 
 ---
