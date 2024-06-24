@@ -57,10 +57,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" alt="POSTGRESQL" width="42" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/trivy.svg" title="Trivy" **alt="Trivy" style="width: 50px; height: 50px; transform: scale(4.0)"/>&nbsp;
-  <img src="https://github.com/odennav/odennav/blob/main/docs/traefik.svg" title="Traefik" **alt="Traefik" style="width: 40px; height: 40px; transform: scale(4.0);"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs/traefikproxy-original-wordmark.svg" title="Traefik" **alt="Traefik" style="width: 40px; height: 40px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs//sonarqube.svg" title="SonarQube" **alt="SonarQube" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/Icinga_logo.svg" title="Icinga" **alt="Icinga" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/datadog.svg" title="DATADOG" alt="DATADOG" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs/argocd-original-wordmark.svg" title="ARGOCD" alt="ARGOCD" width="40" height="40"/>&nbsp;
+
 
   </div>
 
