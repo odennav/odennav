@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"  alt="Kubernetes" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original-wordmark.svg" title="Rancher" alt="Rancher" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="HELM" alt="HELM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/odennav/odennav/blob/main/docs/istioio-ar21.svg" title="ISTIO" alt="ISTIO" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/odennav/odennav/blob/main/docs/istioio-ar21.svg" title="ISTIO" alt="ISTIO" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="PROMETHEUS" alt="PROMETHEUS" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="GRAFANA" alt="GRAFANA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/elastic.svg" title="ELASTIC" alt="ELASTIC" style="width: 80px; height: 45px; transform: scale(6.0);"/>&nbsp;
