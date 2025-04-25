@@ -38,9 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original-wordmark.svg" title="Packer" alt="Packer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"  title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vsphere/vsphere-original-wordmark.svg" title="Vsphere" alt="Vsphere" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"  alt="Kubernetes" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original-wordmark.svg" title="Rancher" alt="Rancher" width="40" height="40"/>&nbsp; 
@@ -49,19 +47,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="PROMETHEUS" alt="PROMETHEUS" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="GRAFANA" alt="GRAFANA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/elastic.svg" title="ELASTIC" alt="ELASTIC" style="width: 80px; height: 45px; transform: scale(6.0);"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/opentelemetry/opentelemetry-original.svg" title="OpenTelemetry" alt="OpenTelemetry" style="width: 45px; height: 45px; transform: scale(4.0);"/>&nbsp; 
-  <img src="https://github.com/odennav/odennav/blob/main/docs/Icinga_logo.svg" title="Icinga" **alt="Icinga" style="width: 80px; height: 45px; transform: scale(4.0);"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="MARIADB" alt="MARIADB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" alt="POSTGRESQL" width="42" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/odennav/odennav/blob/main/docs/argocd-original.svg" title="ARGOCD" alt="ARGOCD" style="width: 50px; height: 45px; transform: scale(4.0);"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" **alt="Apache" style="width: 45px; height: 45px;"/>&nbsp; 
-    <img src="https://github.com/odennav/odennav/blob/main/docs/nginx.svg"  title="NGINX" alt="NGINX" width="40" height="40" style="width: 45px; height: 40px;"/>&nbsp;
-
-
   </div>
 
 ---
